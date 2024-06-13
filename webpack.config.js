@@ -9,7 +9,8 @@ module.exports = {
 
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, '/dist'),
+    path: path.resolve(__dirname, 'dist'),
+    publicPath: '/',
   },
   mode: 'development',
 
@@ -32,5 +33,17 @@ module.exports = {
         },
       },
     ],
+  },
+
+  devServer: {
+    historyApiFallback: true,
+    proxy: [
+      {
+        context: ['/api'],
+        target: 'http://localhost:8080',
+        changeOrigin: true,
+      },
+    ],
+    port: 3000,
   },
 };

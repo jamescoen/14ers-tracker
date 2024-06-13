@@ -1,6 +1,11 @@
 const express = require('express');
-const peaksRouter = express.Router();
+const peakRouter = express.Router();
+const peaksController = require('../controllers/peaksController');
 
 //Add routes here
 
-module.exports = peaksRouter;
+peakRouter.get('/', peaksController.getPeaks, (req, res) => {
+  res.status(200).json(res.locals.peaks);
+});
+
+module.exports = peakRouter;

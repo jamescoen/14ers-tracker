@@ -1,19 +1,30 @@
 const express = require('express');
 const path = require('path');
-const peakRouter = require('');
-
+const dotenv = require('dotenv/config.js');
+//require('dotenv').config();
+const peakRouter = require('./routers/peaksRouter');
 const connectDB = require('./config/db.config.js');
+
+connectDB();
 
 const app = express();
 const PORT = process.env.PORT;
 
 app.use(express.json());
 
-app.use('/peaks', peakRouter);
+app.use('/api/peaks', peakRouter);
 
-app.get('/', (req, res) => {
-  res.status(200).sendFile(path.resolve('src/index.html'));
+//Serve static files
+app.use(express.static(path.join(__dirname, '../dist')));
+
+app.get('/api', (req, res) => {
+  console.log('does this display?');
+  //   console.log('get request from root');
+  //   console.log(path.resolve(__dirname, '../src/index.html'));
+  res.status(200).sendFile(path.resolve(__dirname, '../dist/index.html'));
 });
+
+//
 
 //Error handler to catch unknown requests
 app.use((req, res) => {

@@ -1,10 +1,11 @@
-const Peak = require('../models/peaksModel.js');
+const Peaks = require('../models/peaksModel.js');
 
 const peaksController = {};
 
 peaksController.getPeaks = (req, res, next) => {
-  Peak.find({})
+  Peaks.find({})
     .then((data) => {
+      //   console.log(data);
       res.locals.peaks = data;
       return next();
     })
@@ -15,3 +16,5 @@ peaksController.getPeaks = (req, res, next) => {
       });
     });
 };
+
+module.exports = peaksController;
