@@ -1,0 +1,1586 @@
+[
+  {
+    "id": 9,
+    "name": "Gray's Peak",
+    "elevation": 14270,
+    "rank": 9,
+    "range": "Front",
+    "forest": "Arapaho",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "critical",
+    "numberOfRoutes": 4,
+    "routes": {
+      "northSlopes": {
+        "mileage": 8,
+        "gain": 3000,
+        "difficulty": "class 1",
+        "exposure": 1
+      },
+      "southRidge": {
+        "mileage": 7,
+        "gain": 3250,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "lostRatCouloir": {
+        "mileage": 6.5,
+        "gain": 3000,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "southWestRidge": {
+        "mileage": 10.25,
+        "gain": 3800,
+        "difficulty": "class 2",
+        "exposure": 1
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Torrey's Peak",
+    "elevation": 14267,
+    "rank": 11,
+    "range": "Front",
+    "forest": "Arapaho",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "critical",
+    "numberOfRoutes": 6,
+    "routes": {
+      "southSlopes": {
+        "mileage": 8,
+        "gain": 3000,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "kelsoRidge": {
+        "mileage": 6.75,
+        "gain": 3100,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "deadDogCouloir": {
+        "mileage": 6.5,
+        "gain": 3000,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "tuningFork": {
+        "mileage": 10.5,
+        "gain": 4500,
+        "difficulty": "class 2+",
+        "exposure": 2
+      },
+      "emperorCouloir": {
+        "mileage": 9.5,
+        "gain": 4500,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "westRidge": {
+        "mileage": 10,
+        "gain": 5500,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Long's Peak",
+    "elevation": 14255,
+    "rank": 15,
+    "range": "Front",
+    "forest": "Rocky Mountain National Park",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 3,
+    "routes": {
+      "keyhole": {
+        "mileage": 14.5,
+        "gain": 5100,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "loft": {
+        "mileage": 13,
+        "gain": 5300,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "keplingersCouloir": {
+        "mileage": 16,
+        "gain": 5900,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Mount Evans",
+    "elevation": 14262,
+    "rank": 14,
+    "range": "Front",
+    "forest": "Arapaho",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "critical",
+    "numberOfRoutes": 4,
+    "routes": {
+      "westRidge": {
+        "mileage": 17,
+        "gain": 5600,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "northeastFace": {
+        "mileage": 3.5,
+        "gain": 1475,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "northFace": {
+        "mileage": 2,
+        "gain": 1500,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": "Mount Bierstadt",
+    "elevation": 14060,
+    "rank": 38,
+    "range": "Front",
+    "forest": "Arapaho",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "critical",
+    "numberOfRoutes": 2,
+    "routes": {
+      "westSlopes": {
+        "mileage": 7,
+        "gain": 2850,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "eastRidge": {
+        "mileage": 5,
+        "gain": 3000,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "Pikes Peak",
+    "elevation": 14100,
+    "rank": 30,
+    "range": "Front",
+    "forest": "Pike",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 2,
+    "routes": {
+      "eastSlopes": {
+        "mileage": 26,
+        "gain": 7500,
+        "difficulty": "class 1",
+        "exposure": 0
+      },
+      "northwestSlopes": {
+        "mileage": 14,
+        "gain": 4300,
+        "difficulty": "class 2",
+        "exposure": 1
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Quandary Peak",
+    "elevation": 14265,
+    "rank": 13,
+    "range": "Ten Mile",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 4,
+    "routes": {
+      "eastRidge": {
+        "mileage": 6.75,
+        "gain": 3450,
+        "difficulty": "class 1",
+        "exposure": 1
+      },
+      "cristoCouloir": {
+        "mileage": 2,
+        "gain": 2575,
+        "difficulty": "class 2+",
+        "exposure": 2
+      },
+      "westRidge": {
+        "mileage": 4,
+        "gain": 2650,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "quandaryCouloir": {
+        "mileage": 5.25,
+        "gain": 3250,
+        "difficulty": "class 3",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mount Lincoln",
+    "elevation": 14286,
+    "rank": 8,
+    "range": "Mosquito",
+    "forest": "Pike",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 3,
+    "routes": {
+      "westRidge": {
+        "mileage": 6,
+        "gain": 2600,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "lincolnAmpitheatre": {
+        "mileage": 4.75,
+        "gain": 3400,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "eastSlopes": {
+        "mileage": 6.5,
+        "gain": 2650,
+        "difficulty": "class 2",
+        "exposure": 1
+      }
+    }
+  },
+  {
+    "id": 100,
+    "name": "Mount Cameron",
+    "elevation": 14238,
+    "rank": "unranked",
+    "range": "Mosquito",
+    "forest": "Pike",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 1,
+    "routes": {
+      "westRidge": {
+        "mileage": 4.75,
+        "gain": 2250,
+        "difficulty": "class 2",
+        "exposure": 1
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "Mount Bross",
+    "elevation": 14172,
+    "rank": 22,
+    "range": "Mosquito",
+    "forest": "Pike",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 5,
+    "routes": {
+      "westSlopes": {
+        "mileage": 3.25,
+        "gain": 2250,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "eastSlopesMineralPark": {
+        "mileage": 9,
+        "gain": 2900,
+        "difficulty": "class 1",
+        "exposure": 1
+      },
+      "sGully": {
+        "mileage": 9.5,
+        "gain": 2600,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "dollyVardenGully": {
+        "mileage": 4,
+        "gain": 2900,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "eastSlopesMooseCreek": {
+        "mileage": 5,
+        "gain": 3100,
+        "difficulty": "class 2",
+        "exposure": 1
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "Mount Democrat",
+    "elevation": 14148,
+    "rank": 28,
+    "range": "Mosquito",
+    "forest": "Pike",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 2,
+    "routes": {
+      "eastSlope": {
+        "mileage": 4,
+        "gain": 2150,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "southSlope": {
+        "mileage": 2.5,
+        "gain": 2150,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 45,
+    "name": "Mount Sherman",
+    "elevation": 14036,
+    "rank": 45,
+    "range": "Mosquito",
+    "forest": "Pike",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "extreme",
+    "numberOfRoutes": 3,
+    "routes": {
+      "southwestRidge": {
+        "mileage": 5.25,
+        "gain": 2100,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "westSlopesFromIowaGulch": {
+        "mileage": 4.5,
+        "gain": 2150,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "southSlope": {
+        "mileage": 8.5,
+        "gain": 3100,
+        "difficulty": "class 2",
+        "exposure": 1
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "Mount Elbert",
+    "elevation": 14433,
+    "rank": 1,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "high",
+    "numberOfRoutes": 4,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 9.5,
+        "gain": 4700,
+        "difficulty": "class 1",
+        "exposure": 1
+      },
+      "eastRidge": {
+        "mileage": 10,
+        "gain": 4100,
+        "difficulty": "class 1",
+        "exposure": 1
+      },
+      "southeastRidge": {
+        "mileage": 11,
+        "gain": 5300,
+        "difficulty": "class 2",
+        "exposure": 1
+      },
+      "boxCreekCouloir": {
+        "mileage": 8.5,
+        "gain": 4150,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mount Massive",
+    "elevation": 14421,
+    "rank": 2,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "high",
+    "numberOfRoutes": 3,
+    "routes": {
+      "eastSlopes": {
+        "mileage": 14.5,
+        "gain": 4500,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "southwestSlopes": {
+        "mileage": 8,
+        "gain": 3950,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "eastRidge": {
+        "mileage": 14,
+        "gain": 4800,
+        "difficulty": "class 2+",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mount Harvard",
+    "elevation": 14420,
+    "rank": 3,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 2,
+    "routes": {
+      "southSlopes": {
+        "mileage": 14,
+        "gain": 4600,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "southFace": {
+        "mileage": 14,
+        "gain": 4600,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 35,
+    "name": "Mount Columbia",
+    "elevation": 14073,
+    "rank": 35,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 3,
+    "routes": {
+      "westSlopes": {
+        "mileage": 11.5,
+        "gain": 4250,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "southeastRidge": {
+        "mileage": 12,
+        "gain": 4800,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "southwestCouloir": {
+        "mileage": 13.5,
+        "gain": 4800,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "La Plata Peak",
+    "elevation": 14336,
+    "rank": 5,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northwestRidge": {
+        "mileage": 9.25,
+        "gain": 4500,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "southwestRidge": {
+        "mileage": 7,
+        "gain": 3380,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "ellingwoodRidge": {
+        "mileage": 9.5,
+        "gain": 5900,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 51,
+    "name": "Mount of the Holy Cross",
+    "elevation": 14005,
+    "rank": 51,
+    "range": "Sawatch",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "high",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northRidge": {
+        "mileage": 12,
+        "gain": 5600,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "crossCouloir": {
+        "mileage": 12.25,
+        "gain": 5600,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "haloRidge": {
+        "mileage": 15,
+        "gain": 5210,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 52,
+    "name": "Mount Huron",
+    "elevation": 14003,
+    "rank": 52,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "high",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northwestSlopes": {
+        "mileage": 6.5,
+        "gain": 3500,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "southwestSlopes": {
+        "mileage": 9,
+        "gain": 3600,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "northRidgeFromLuluGulch": {
+        "mileage": 8.4,
+        "gain": 3980,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 36,
+    "name": "Missouri Mountain",
+    "elevation": 14067,
+    "rank": 36,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northwestRidge": {
+        "mileage": 10.5,
+        "gain": 4500,
+        "difficulty": "class 2",
+        "exposure": 3
+      },
+      "westRidge": {
+        "mileage": 11.75,
+        "gain": 4250,
+        "difficulty": "class 2",
+        "exposure": 3
+      },
+      "northFaceCouloirs": {
+        "mileage": 9,
+        "gain": 4500,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "Mount Belford",
+    "elevation": 14197,
+    "rank": 18,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "high",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northwestRidge": {
+        "mileage": 8,
+        "gain": 4500,
+        "difficulty": "class 2",
+        "exposure": 1
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "Mount Oxford",
+    "elevation": 14153,
+    "rank": 26,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "high",
+    "numberOfRoutes": 1,
+    "routes": {
+      "viaMtBelford": {
+        "mileage": 11,
+        "gain": 5800,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "Mount Princeton",
+    "elevation": 14197,
+    "rank": 20,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 1,
+    "routes": {
+      "eastSlopes": {
+        "mileage": 6.5,
+        "gain": 3200,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "Mount Yale",
+    "elevation": 14196,
+    "rank": 21,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 2,
+    "routes": {
+      "southwestSlopes": {
+        "mileage": 9.5,
+        "gain": 4300,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "eastRidge": {
+        "mileage": 10.5,
+        "gain": 5000,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mount Antero",
+    "elevation": 14269,
+    "rank": 10,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 1,
+    "routes": {
+      "westSlopes": {
+        "mileage": 16,
+        "gain": 5200,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "Mount Shavano",
+    "elevation": 14229,
+    "rank": 17,
+    "range": "Sawatch",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "eastSlopes": {
+        "mileage": 9,
+        "gain": 4600,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "angelOfShavano": {
+        "mileage": 7.5,
+        "gain": 4600,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "Tabeguache Peak",
+    "elevation": 14155,
+    "rank": 25,
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "viaMtShavano": {
+        "mileage": 11,
+        "gain": 5600,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "westRidge": {
+        "mileage": 8,
+        "gain": 4000,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Blanca Peak",
+    "elevation": 14345,
+    "rank": 4,
+    "range": "Sange de Cristo",
+    "forest": "Rio Grande",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northwestRidge": {
+        "mileage": 17,
+        "gain": 6500,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 42,
+    "name": "Ellingwood Point",
+    "elevation": 14042,
+    "rank": 42,
+    "range": "Sange de Cristo",
+    "forest": "Rio Grande",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 3,
+    "routes": {
+      "southFace": {
+        "mileage": 17,
+        "gain": 6200,
+        "difficulty": "class 2+",
+        "exposure": 2
+      },
+      "southwestRidge": {
+        "mileage": 15,
+        "gain": 2200,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "northRidgeViaSouthZapataCreek": {
+        "mileage": 11.6,
+        "gain": 5500,
+        "difficulty": "class 3",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 44,
+    "name": "Little Bear Peak",
+    "elevation": 14037,
+    "rank": 44,
+    "range": "Sange de Cristo",
+    "forest": "Rio Grande",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "westRidge": {
+        "mileage": 14,
+        "gain": 6200,
+        "difficulty": "class 4",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 43,
+    "name": "Mount Lindsey",
+    "elevation": 14042,
+    "rank": 43,
+    "range": "Sange de Cristo",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northwestGully": {
+        "mileage": 8.25,
+        "gain": 3500,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "northwestRidge": {
+        "mileage": 8.25,
+        "gain": 3500,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "northCouloir": {
+        "mileage": 8.75,
+        "gain": 3900,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Crestone Peak",
+    "elevation": 14294,
+    "rank": 7,
+    "range": "Sange de Cristo",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "southFace": {
+        "mileage": 14,
+        "gain": 5700,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "Crestone Needle",
+    "elevation": 14197,
+    "rank": 19,
+    "range": "Sange de Cristo",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "southFace": {
+        "mileage": 12,
+        "gain": 4400,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "ellingwoodArete": {
+        "mileage": 11.25,
+        "gain": 4400,
+        "difficulty": "class 5",
+        "exposure": 5
+      }
+    }
+  },
+  {
+    "id": 37,
+    "name": "Humboldt Peak",
+    "elevation": 14064,
+    "rank": 37,
+    "range": "Sange de Cristo",
+    "forest": "San Isabel",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 3,
+    "routes": {
+      "westRidge": {
+        "mileage": 11,
+        "gain": 4200,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "eastRidge": {
+        "mileage": 8,
+        "gain": 4300,
+        "difficulty": "class 2",
+        "exposure": 3
+      },
+      "southeastGully": {
+        "mileage": 8,
+        "gain": 5400,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "Kit Carson Peak",
+    "elevation": 14165,
+    "rank": 23,
+    "range": "Sange de Cristo",
+    "forest": "Rio Grande",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 4,
+    "routes": {
+      "viaChallengerPoint": {
+        "mileage": 14.5,
+        "gain": 6250,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "eastRidge": {
+        "mileage": 14.5,
+        "gain": 5900,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "northRidge": {
+        "mileage": 11.4,
+        "gain": 5315,
+        "difficulty": "class 4",
+        "exposure": 4
+      },
+      "outwardBoundCouloir": {
+        "mileage": 13.75,
+        "gain": 5500,
+        "difficulty": "class 3",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 34,
+    "name": "Challenger Point",
+    "elevation": 14081,
+    "rank": 34,
+    "range": "Sange de Cristo",
+    "forest": "Rio Grande",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "northSlope": {
+        "mileage": 12.5,
+        "gain": 5400,
+        "difficulty": "class 2+",
+        "exposure": 2
+      },
+      "kirkCouloir": {
+        "mileage": 12.75,
+        "gain": 5400,
+        "difficulty": "class 3",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 41,
+    "name": "Culebra Peak",
+    "elevation": 14047,
+    "rank": 41,
+    "range": "Sange de Cristo",
+    "forest": "Cielo Vista Ranch",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northwestRidge": {
+        "mileage": 5,
+        "gain": 2700,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Castle Peak",
+    "elevation": 14265,
+    "rank": 12,
+    "range": "Elk",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 13.5,
+        "gain": 4600,
+        "difficulty": "class 2+",
+        "exposure": 3
+      },
+      "northwestRidge": {
+        "mileage": 13.5,
+        "gain": 4600,
+        "difficulty": "class 2+",
+        "exposure": 3
+      },
+      "northFaceCouloir": {
+        "mileage": 13,
+        "gain": 4600,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 101,
+    "name": "Conundrum Peak",
+    "elevation": 14060,
+    "rank": "unranked",
+    "range": "Elk",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "viaCastlePeak": {
+        "mileage": 14.5,
+        "gain": 4850,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "Maroon Peak",
+    "rank": 24,
+    "range": "Elk",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": false,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "southRidge": {
+        "mileage": 11.5,
+        "gain": 4800,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "bellCordCouloir": {
+        "mileage": 8,
+        "gain": 4556,
+        "difficulty": "class 4",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 102,
+    "name": "North Maroon Peak",
+    "elevation": 14014,
+    "rank": "unranked",
+    "range": "Elk",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 9.25,
+        "gain": 4500,
+        "difficulty": "class 4",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 47,
+    "name": "Pyramid Peak",
+    "elevation": 14018,
+    "rank": 47,
+    "range": "Elk",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 8.25,
+        "gain": 4500,
+        "difficulty": "class 4",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": "Capital Peak",
+    "elevation": 14130,
+    "rank": 29,
+    "range": "Elk",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 17,
+        "gain": 5300,
+        "difficulty": "class 4",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 31,
+    "name": "Snowmass Mountain",
+    "elevation": 14092,
+    "rank": 31,
+    "range": "Elk",
+    "forest": "White River",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "eastSlopes": {
+        "mileage": 22,
+        "gain": 5800,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "westSlope": {
+        "mileage": 9,
+        "gain": 4500,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Uncompahgre Peak",
+    "elevation": 14309,
+    "rank": 6,
+    "range": "San Juan",
+    "forest": "Uncompahgre",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "southRidge": {
+        "mileage": 7.5,
+        "gain": 3000,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Mount Wilson",
+    "elevation": 14246,
+    "rank": 16,
+    "range": "San Juan",
+    "forest": "San Juan",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northSlopes": {
+        "mileage": 16,
+        "gain": 5100,
+        "difficulty": "class 4",
+        "exposure": 4
+      },
+      "southwestSlopes": {
+        "mileage": 12.5,
+        "gain": 4400,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "eastFace": {
+        "mileage": 12,
+        "gain": 4900,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 48,
+    "name": "Wilson Peak",
+    "elevation": 14017,
+    "rank": 48,
+    "range": "San Juan",
+    "forest": "San Juan",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "southwestRidge": {
+        "mileage": 10,
+        "gain": 5000,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 103,
+    "name": "El Diente Peak",
+    "elevation": 14159,
+    "rank": "unranked",
+    "range": "San Juan",
+    "forest": "San Juan",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 3,
+    "routes": {
+      "northSlopes": {
+        "mileage": 15,
+        "gain": 5000,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "southSlopes": {
+        "mileage": 12,
+        "gain": 4300,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "northButtress": {
+        "mileage": 5,
+        "gain": 3200,
+        "difficulty": "class 4",
+        "exposure": 5
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "Mount Sneffels",
+    "elevation": 14150,
+    "rank": 27,
+    "range": "San Juan",
+    "forest": "Uncompahgre",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 2,
+    "routes": {
+      "southSlopes": {
+        "mileage": 6,
+        "gain": 2900,
+        "difficulty": "class 3",
+        "exposure": 3
+      },
+      "southwestRidge": {
+        "mileage": 6.5,
+        "gain": 2950,
+        "difficulty": "class 3",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 32,
+    "name": "Mount Eolus",
+    "elevation": 14083,
+    "rank": 32,
+    "range": "San Juan",
+    "forest": "San Juan",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 17,
+        "gain": 6100,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 104,
+    "name": "North Eolus",
+    "elevation": 14039,
+    "rank": "unranked",
+    "range": "San Juan",
+    "forest": "San Juan",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "southRidge": {
+        "mileage": 16.75,
+        "gain": 6000,
+        "difficulty": "class 3",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 33,
+    "name": "Windom Peak",
+    "elevation": 14082,
+    "rank": 33,
+    "range": "San Juan",
+    "forest": "San Juan",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "westRidge": {
+        "mileage": 17,
+        "gain": 6000,
+        "difficulty": "class 2+",
+        "exposure": 3
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": "Sunlight Peak",
+    "elevation": 14059,
+    "rank": 39,
+    "range": "San Juan",
+    "forest": "San Juan",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "southFace": {
+        "mileage": 17,
+        "gain": 6000,
+        "difficulty": "class 4",
+        "exposure": 5
+      }
+    }
+  },
+  {
+    "id": 40,
+    "name": "Handies Peak",
+    "elevation": 14048,
+    "rank": 40,
+    "range": "San Juan",
+    "forest": "n/a",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "medium",
+    "numberOfRoutes": 3,
+    "routes": {
+      "southwestSlopes": {
+        "mileage": 5.75,
+        "gain": 2500,
+        "difficulty": "class 1",
+        "exposure": 1
+      },
+      "eastSlopes": {
+        "mileage": 8,
+        "gain": 3650,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "westSlopes": {
+        "mileage": 5,
+        "gain": 2800,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 46,
+    "name": "Red Cloud Peak",
+    "elevation": 14034,
+    "rank": 46,
+    "range": "San Juan",
+    "forest": "n/a",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 1,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 9,
+        "gain": 3700,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 53,
+    "name": "Sunshine Peak",
+    "elevation": 14001,
+    "rank": 53,
+    "range": "San Juan",
+    "forest": "n/a",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 3,
+    "routes": {
+      "viaRedcloudPeak": {
+        "mileage": 12.25,
+        "gain": 4800,
+        "difficulty": "class 2",
+        "exposure": 2
+      },
+      "northwestFace": {
+        "mileage": 8.5,
+        "gain": 3800,
+        "difficulty": "class 2+",
+        "exposure": 2
+      },
+      "eastRidge": {
+        "mileage": 7,
+        "gain": 4600,
+        "difficulty": "class 2",
+        "exposure": 2
+      }
+    }
+  },
+  {
+    "id": 49,
+    "name": "Wetterhorn Peak",
+    "elevation": 14015,
+    "rank": 49,
+    "range": "San Juan",
+    "forest": "Uncompahgre",
+    "grizzlyBears": false,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "southeastRidge": {
+        "mileage": 7,
+        "gain": 3300,
+        "difficulty": "class 3",
+        "exposure": 4
+      },
+      "eastFace": {
+        "mileage": 6.5,
+        "gain": 3300,
+        "difficulty": "class 3",
+        "exposure": 4
+      }
+    }
+  },
+  {
+    "id": 50,
+    "name": "San Luis Peak",
+    "elevation": 14014,
+    "rank": 50,
+    "range": "San Juan",
+    "forest": "Gunnison",
+    "grizzlyBears": true,
+    "marmots": true,
+    "jerryLevel": "low",
+    "numberOfRoutes": 2,
+    "routes": {
+      "northeastRidge": {
+        "mileage": 13.5,
+        "gain": 3600,
+        "difficulty": "class 1",
+        "exposure": 0
+      },
+      "southRidge": {
+        "mileage": 11,
+        "gain": 3700,
+        "difficulty": "class 1",
+        "exposure": 1
+      }
+    }
+  }
+]

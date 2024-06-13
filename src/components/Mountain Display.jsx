@@ -1,5 +1,16 @@
+import React from 'react';
+import Mountain from './Mountain.jsx';
+
 const MountainDisplay = (props) => {
-  return <div></div>;
+  fetch('../peaks.json').then((data) => {
+    console.log(data);
+  });
+  return (
+    <div>
+      <p>MountainDisplay</p>
+      <Mountain />
+    </div>
+  );
 };
 
 export default MountainDisplay;
