@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Oswald:wght@200..700&display=swap');
+
+title {
+  text-align: center;
+}
+
+body {
+  background-image: url(file:///Users/jcoen96/Desktop/colorado-14ers-fb.jpg);
+  /* background: rgb(177, 183, 208); */
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.peak {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+  padding: 10px;
+  min-width: 280px;
+  background-color: white;
+  border: 1px solid rgb(0, 0, 0);
+  margin: 5px;
+  box-shadow: 5px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.peakName {
+  font-family: 'Oswald', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+  font-variation-settings: 'wdth' 100;
+}
+
+.peakDisplay {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 15px;
+}
+
+.peakDetails li {
+  margin: 5px;
+  font-family: 'Cabin', sans-serif;
+}
+
+button {
+  font-family: 'Cabin', sans-serif;
+  color: white;
+  background-color: rgb(101, 142, 229);
+  border-radius: 5px;
+}
+
+.completed {
+  display: inline;
+  color: rgb(65, 138, 90);
+}
+
+.progressTracker {
+  font-family: 'Cabin', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+  font-variation-settings: 'wdth' 100;
+  text-align: left;
+  font-size: larger;
+  display: inline;
+  background: white;
+  color: whitesmoke;
+}
+
+.title {
+  font-family: 'Oswald', sans-serif;
+  font-size: xx-large;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+  font-variation-settings: 'wdth' 100;
+  text-align: center;
+}

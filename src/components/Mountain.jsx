@@ -1,21 +1,28 @@
 import React from 'react';
 
 const Mountain = (props) => {
-  let name = 'Pyramid Peak';
-  let elevation = 14018;
-  let range = 'Elk';
-  let classs = 4;
-  let rank = 47;
+  const { name, rank, elev, range, stdRt, diff } = props;
 
   return (
-    <div>
-      <h3>{name}</h3>
-      <ul className='MountainStats'>
-        <li>Elevation: {elevation}ft</li>
+    <div className='peak'>
+      <div>
+        <h3 className='peakName'>{name}</h3>
+      </div>
+      <ul className='peakDetails'>
+        <li>Elevation: {elev}ft</li>
         <li>Range: {range}</li>
-        <li>Class: {classs}</li>
         <li>Rank: {rank}</li>
+        <li>Standard Route: {stdRt}</li>
+        <li>Difficulty: {diff}</li>
+        <li>
+          Completed? <div className='completed'>Yes</div>
+        </li>
       </ul>
+      {/* <h5>Elevation: {elev}ft</h5>
+      <h5>Range: {range}</h5>
+      <h5>Rank: {rank}</h5>
+      <h5>Standard Route: {stdRt}</h5>
+      <h5>Difficulty: {diff}</h5> */}
       <button>Completed</button>
     </div>
   );

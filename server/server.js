@@ -18,7 +18,7 @@ app.use('/api/peaks', peakRouter);
 app.use(express.static(path.join(__dirname, '../dist')));
 
 app.get('/api', (req, res) => {
-  console.log('does this display?');
+  //console.log('does this display?');
   //   console.log('get request from root');
   //   console.log(path.resolve(__dirname, '../src/index.html'));
   res.status(200).sendFile(path.resolve(__dirname, '../dist/index.html'));
